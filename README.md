@@ -3,7 +3,8 @@
 ## Getting Started
 
 1. Install dependencies:
-   Go to each directory and run the following:
+
+Go to each directory and run the following:
 
 ```bash
 yarn
