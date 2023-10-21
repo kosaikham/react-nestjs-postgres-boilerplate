@@ -14,6 +14,11 @@ yarn
 docker-compose up --build
 ```
 
+3. Check on browser and Postman:
+
+- frontend app > go to `http://localhost`
+- backend service (via postman) > go to `http://localhost:3001`
+
 ## Running Tests
 
 ```bash
