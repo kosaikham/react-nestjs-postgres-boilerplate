@@ -1,14 +1,15 @@
-# NestJS PostgreSQL Boilerplate
+# React NestJS PostgreSQL Boilerplate
 
 ## Getting Started
 
 1. Install dependencies:
+   Go to each directory and run the following:
 
 ```bash
 yarn
 ```
 
-2. Build and run the project with Docker Compose:
+2. Build and run the project with Docker Compose at the root directory:
 
 ```bash
 docker-compose up --build
@@ -20,6 +21,8 @@ docker-compose up --build
 - backend service (via postman) > go to `http://localhost:3001`
 
 ## Running Tests
+
+Go to each directory and run the following:
 
 ```bash
 yarn test
